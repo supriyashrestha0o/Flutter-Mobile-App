@@ -13,7 +13,7 @@ This is a clean and simple Login and Registration interface built with Flutter. 
 * `login_page.dart`: Contains the login form, password fields, forgot password triggers, and navigation redirects to register a new account.
 * `registration_page.dart`: Contains the account creation form, input validation structures, and quick routing tools to navigate back to the login framework.
 
-
+## Screenshots
 ## Login Page
 ![login.png](login.png)
 
@@ -22,3 +22,32 @@ This is a clean and simple Login and Registration interface built with Flutter. 
 
 ## Registration Page
 ![register.png](register.png)
+
+## Technologies Used
+* **Framework:** Flutter (Latest Stable Release)
+* **Language:** Dart
+* **Design System:** Material Design 3 Styling
+* **IDE:** Android Studio
+
+## How to Run the Project
+
+### Prerequisites
+* Flutter SDK installed and configured on your computer.
+* Android Studio or VS Code with the Dart and Flutter plugins installed.
+* A running mobile emulator or a connected physical phone.
+
+### Setup Instructions
+1. Clone this repository to your local machine:
+   ```bash
+   git clone YOUR_GITHUB_REPOSITORY_LINK_HERE
+   ```
+2. Open the project root folder inside your terminal.
+3. Fetch all required packages and dependencies:
+   ```bash
+   flutter pub get
+   ```
+4. Run the application on your active device:
+   ```bash
+   flutter run
+   ```
+
