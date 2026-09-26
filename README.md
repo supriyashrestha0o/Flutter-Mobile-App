@@ -13,3 +13,12 @@ This is a clean and simple Login and Registration interface built with Flutter. 
 * `login_page.dart`: Contains the login form, password fields, forgot password triggers, and navigation redirects to register a new account.
 * `registration_page.dart`: Contains the account creation form, input validation structures, and quick routing tools to navigate back to the login framework.
 
+
+## Login Page
+![login.png](login.png)
+
+## Forgot Password
+![forgot_password](forgot_password.png)
+
+## Registration Page
+![register.png](register.png)
