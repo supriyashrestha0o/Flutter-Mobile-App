@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'registration_page.dart'; // 1. ADDED THIS IMPORT
+import 'registration_page.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});
@@ -131,7 +131,7 @@ class _LoginPageState extends State<LoginPage> {
                   const Text("Don't have an account? "),
                   TextButton(
                     onPressed: () {
-                      // 2. ADDED THE NAVIGATION CODE HERE
+
                       Navigator.push(
                         context,
                         MaterialPageRoute(
